@@ -1,4 +1,4 @@
-# flights-sql-app
+# Flights Data Analysis using Python and SQL
 ## Project Description:
 In an era of global connectivity, understanding and visualizing flight data is essential for both travel enthusiasts and industry professionals. The "Flights Data Analysis using Python and SQL" project offers a comprehensive and user-friendly platform for exploring, analyzing, and gaining insights from a vast repository of flight data.
 ## Project Purpose:
